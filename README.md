@@ -17,7 +17,6 @@ To run the code in this repository, you need to have Python installed. You can i
 pip install pandas nltk sastrawi requests
 Usage
 Cleaning the Dataset
-The notebook starts with cleaning the dataset. It involves:
 
 Installing required packages:
 pandas
