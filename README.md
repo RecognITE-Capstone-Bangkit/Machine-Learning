@@ -24,11 +24,3 @@ pandas
 nltk
 Sastrawi
 requests
-
-Defining functions:
-clean_text: Cleans the text data.
-stemmingIndo: Applies stemming to Indonesian text.
-Applying the functions to the dataset.
-Saving the cleaned data to a CSV file.
-Exploratory Data Analysis (EDA)
-The notebook also includes a section for EDA:
