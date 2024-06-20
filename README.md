@@ -10,14 +10,6 @@ Exploratory Data Analysis (EDA)
 
 This repository contains the code and documentation for a machine learning project focused on text data cleaning, stemming, and exploratory data analysis (EDA).
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 To run the code in this repository, you need to have Python installed. You can install the necessary dependencies using the following command:
@@ -32,6 +24,7 @@ pandas
 nltk
 Sastrawi
 requests
+
 Defining functions:
 clean_text: Cleans the text data.
 stemmingIndo: Applies stemming to Indonesian text.
